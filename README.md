@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imamdinata95
-- 👀 I’m interested about mobile programming
+- 👀 I’m interested about data and mobile programming
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
